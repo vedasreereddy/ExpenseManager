@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Expense Manager</string>
+
+    <!--    Sign In Screen-->
+    <string name="app_logo">App Logo</string>
+    <string name="txt_welcome">Welcome</string>
+    <string name="login_to_continue">Login to continue</string>
+    <string name="email_hint">E-mail address</string>
+    <string name="password_hint">Password</string>
+    <string name="no_account">Don\'t have an account?</string>
+
+    <!--    Sign Up Screen-->
+    <string name="sign_up">SIGN UP</string>
+    <string name="first_name_hint">First name</string>
+    <string name="family_name_hint">Family name</string>
+    <string name="confirm_password_hint">Confirm password</string>
+    <string name="get_started">Get Started</string>
+
+    <!-- Shared Preference-->
+    <string name="user_session">USER_SESSION</string>
+
+    <!-- Dashboard-->
+    <string name="categories">Categories</string>
+    <string name="chart">Chart</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="more">More</string>
+    <string name="salary">Salary</string>
+    <string name="date">Date</string>
+    <string name="inc_val">999</string>
+    <string name="exp_val">222</string>
+    <string name="balance">Balance</string>
+    <string name="bal_val">777</string>
+
+    <!-- Categories -->
+    <string name="my_categories">My Categories</string>
+    <string name="add_new_category">Add New Category</string>
+    <string name="category_name">Category Name</string>
+    <string name="category_icon">Category Icon</string>
+    <string name="button_delete">Button Delete</string>
+
+    <!--    New Transaction-->
+    <string name="expense">Expense</string>
+    <string name="income">Income</string>
+    <string name="memo_hint">Memo</string>
+    <string name="amount_hint">Amount</string>
+    <string name="select_date">Date</string>
+    <string name="btn_add">Save</string>
+
+    <!--    Nav items-->
+    <string name="welcome">Welcome to Expense Manager!</string>
+    <string name="chart_frag">Charts go here</string>
+    <string name="user_profile">User Profile</string>
+    <string name="about">About App</string>
+    <string name="sign_out">Sign Out</string>
+
+    <!--    Update Category/Transaction-->
+    <string name="update">Update</string>
+    <string name="name_of_item">Transportation</string>
+    <string name="edit_transaction">Edit Transaction</string>
+    <string name="transaction_type">Type:</string>
+    <string name="amount">Amount:</string>
+    <string name="_7000">7000</string>
+    <string name="dt_date">Date:</string>
+    <string name="dt_memo">Memo:</string>
+    <string name="memo">Some memo</string>
+    <string name="dt_date_value">10/18/2019</string>
+    <string name="no_transaction">No Transaction Yet!</string>
+    <string name="record_one">Record one now</string>
+
+    <!--    Profile-->
+    <string name="cover_photo">Cover Photo</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="team_hawa_huri">Team Hawa Huri</string>
+    <string name="profile_email">teamhawahuri@agile.com</string>
+
+    <string-array name="transactions_type">
+        <item>Expense</item>
+        <item>Income</item>
+    </string-array>
+
+</resources>
